@@ -95,7 +95,7 @@ header ul li a{
 .Nelly__contenedor{
     position: absolute;
     text-align: center;
-    left: 2rem;
+    left: 0rem;
 }
 
 @media (min-width:768px) {
